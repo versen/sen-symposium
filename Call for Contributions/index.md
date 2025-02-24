@@ -19,11 +19,9 @@ There is no specific format for lightning talks. Still, they should be targeting
 
 There will be a (lightweight) evaluation of one-page talk proposals (PDF) describing the envisioned presentation at the symposium.
 
-_The link for the submission will be available soon._
+Please submit your one-page proposal (PDF) using EasyChair.
 
-<!--- Please submit your one-page proposal (PDF) using HotCRP.
-
-[https://sensym24-lightning.hotcrp.com/](https://sensym24-lightning.hotcrp.com/) --->
+[https://easychair.org/conferences/?conf=sensym25](https://easychair.org/conferences/?conf=sensym25)
 
 ### Important Dates
 
