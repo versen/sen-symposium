@@ -11,7 +11,7 @@ We promise an exciting program! Find below the confirmed speakers.
 ### Keynotes 
 
 #### <a href="https://www.cs.uni-salzburg.at/~anas/">Ana Sokolova</a>, University of Salzburg, Austria <br />
-#### <a href="https://www.fim.uni-passau.de/en/chair-for-software-engineering-ii">Gordon Fraser</a>, University of Passau, Germany
+#### <a href="https://podkopaev.net/">Anton Podkopaev</a>, JetBrains, the Netherlands
 
 ### Invited speakers
 
