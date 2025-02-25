@@ -17,6 +17,7 @@ We promise an exciting program! Find below the confirmed speakers.
 
 #### <a href="https://burcuku.github.io/home/">Burcu Ozkan</a>,  Delft University of Technology, the Netherlands <br />
 #### <a href="https://lmove.github.io/">Lina Ochoa Venegas</a>, Eindhoven University of Technology, the Netherlands <br />
-#### <a href="https://tobias.kap.pe/">Tobias Kappé</a>, Leiden University, the Netherlands
+#### <a href="https://tobias.kap.pe/">Tobias Kappé</a>, Leiden University, the Netherlands <br />
+#### <a href="https://timcoopmans.com/">Tim Coopmans</a>, QuTech, the Netherlands
 
 <br />
