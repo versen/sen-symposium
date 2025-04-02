@@ -25,8 +25,8 @@ Please submit your one-page proposal (PDF) using EasyChair.
 
 ### Important Dates
 
-Submission of talk proposals: April 18th, 2025, 23:59 (CEST).
+Submission of talk proposals: April 30th, 2025, 23:59 (CEST).
 
-Notification: April 25th, 2025.
+Notification: May 7th, 2025.
 
 We look forward to seeing you at the SEN symposium!
