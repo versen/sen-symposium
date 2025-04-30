@@ -30,7 +30,7 @@ Organising committee:
     <ul>
         <li><a href="https://alfons.laarman.com/">Alfons Laarman</a>,  Leiden University</li>
         <li><a href="https://mairieli.com/">Mairieli Wessel</a>, Radboud University</li>
-        <li><a href="https://malihehizadi.github.io/PersonalWebsite/">Maliheh Izadi</a>, Delft University of Technology</li>
+        <li><a href="https://malihehizadi.github.io/">Maliheh Izadi</a>, Delft University of Technology</li>
     </ul>
 </p>
 
