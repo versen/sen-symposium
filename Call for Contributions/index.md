@@ -4,9 +4,7 @@ title: Call for Contributions
 published: true
 ---
 
-The call for lightning talks has been closed.
-
-<!--- ## Call for Lightning Talks
+## Call for Lightning Talks
 
 We invite all software engineering researchers and practitioners in the Netherlands to contribute to the symposium program. We welcome proposals for "lightning talks" - short but engaging presentations, to be allocated between 5 and 10 minutes at the symposium.
 
@@ -21,14 +19,12 @@ There is no specific format for lightning talks. Still, they should be targeting
 
 There will be a (lightweight) evaluation of one-page talk proposals (PDF) describing the envisioned presentation at the symposium.
 
-Please submit your one-page proposal (PDF) using EasyChair.
-
-[https://easychair.org/conferences/?conf=sensym25](https://easychair.org/conferences/?conf=sensym25)
+**The call for lightning talks has been closed.**
 
 ### Important Dates
 
-Submission of talk proposals: April 30th, 2025, 23:59 (CEST).
+Submission of talk proposals: April 30th, 2025, 23:59 (CEST). 
 
 Notification: May 7th, 2025.
 
-We look forward to seeing you at the SEN symposium! ---!>
+We look forward to seeing you at the SEN symposium!
