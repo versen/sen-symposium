@@ -39,8 +39,12 @@ Local organisation:
 <a href="https://homepages.cwi.nl/~storm/">Tijs van der Storm</a>, Centrum Wiskunde & Informatica, University of Groningen
 </p>
 
-<!--- <p class="lead">
-We thank ASML for the generous sponsorship this year. <br>
-<img width="200" src="assets/img/ASML.png"> 
-</p> -->
+<p class="lead">
+We thank ASML and Cloud-webshop for the generous sponsorship this year.
+<!--img width="200" src="assets/img/ASML.png"-->  
+</p>
+  <div style="display: flex; gap: 10px;">
+    <img src="assets/img/ASML.png" alt="ASML" style="width: 200px; height: auto;">
+    <img src="assets/img/cloudwebshop_logo.png" alt="CloudWebshop" style="width: 200px; height: auto;">
+  </div>
 <!-- <a href="/program/">check our program</a> and <a href="/registration/">register for free participation.</a> -->
