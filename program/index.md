@@ -16,13 +16,8 @@ Below is the tentative program for SEN Symposium 2025.
 | 10:45 - 11:15 | Coffee Break                                                                        |
 |  Session chair: Maliheh Izadi, Mairieli Wessel, Alfons Laarman |  
 | 11:15 - 11:45 | <b>Invited talk:</b> [Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/) - Model-guided Testing of Distributed Systems |
-| 11:45 - 12:25 | <b>Lightning talks (session 1):</b> {::nomarkdown}
-<ul>
-<li>Generating Tutorials for Personalized Learning Trajectories by Riemer van Rozen</li>
-<li>A Qualitative Investigation into LLM-Generated Multilingual Code Comments and Automatic Evaluation Metrics by Yongcheng Huang, Jonathan Katzy, Arie van Deursen and Maliheh Izadi</li>
-<li>AI-Powered, But Power-Hungry? Energy Efficiency of LLM-Generated Code by Lola Solovyeva</li>
-</ul>{:/}  |
-| 11:25 - 12:35 | <b>VERSEN Fellows Award:</b> {::nomarkdown}<ul><li>TBA</li></ul>{:/}  |
+| 11:45 - 12:25 | <b>Lightning talks (session 1):</b> {::nomarkdown}<ul><li>Generating Tutorials for Personalized Learning Trajectories by Riemer van Rozen</li><li>A Qualitative Investigation into LLM-Generated Multilingual Code Comments and Automatic Evaluation Metrics by Yongcheng Huang, Jonathan Katzy, Arie van Deursen and Maliheh Izadi</li><li>AI-Powered, But Power-Hungry? Energy Efficiency of LLM-Generated Code by Lola Solovyeva</li></ul>{:/}  |
+| 11:25 - 12:35 | <b>VERSEN Fellows Awards:</b> {::nomarkdown}<ul><li>TBA</li></ul>{:/}  |
 | 12:35 - 13:30 | Lunch + Poster Session                                                              |
 |  Session chair: Maliheh Izadi, Mairieli Wessel, Alfons Laarman |  
 | 13:30 - 14:15 | <b>Keynote:</b> [Ana Sokolova](https://www.cs.uni-salzburg.at/~anas/) - Semantics for Probabilistic Systems: From Bisimilarity to Epsilon-Bisimilarity, Coalgebraically |
@@ -31,12 +26,6 @@ Below is the tentative program for SEN Symposium 2025.
 |  Session chair: Maliheh Izadi, Mairieli Wessel, Alfons Laarman | 
 | 15:30 - 16:10 | <b>Invited talk:</b> [Tim Coopmans](https://timcoopmans.com/) - Computer science for Quantum Technology   |
 |  Session chair: Maliheh Izadi, Mairieli Wessel, Alfons Laarman | 
-| 16:10 - 17:00 | <b>Lightning talks (session 2)</b>   {::nomarkdown}
-<ul>
-<li>Personalizing LLM-Based Conversational Programming Assistants by Jonan Richards</li>
-<li>Evidence-Driven Black-Box Checking by Frits Vaandrager</li>
-<li>Language Models in Software Development Tasks: An Experimental Analysis of Energy and Accuracy by Negar Alizadeh, Boris Belchev, Nishant Saurabh, Patricia Kelbert and Fernando Castor</li>
-<li>AUTOLINKing the GUI to MBT: automated model generation with scriptless testing by Machiel Van der Bijl and Fernando Pastor Ricos</li>
-</ul>{:/}         |
+| 16:10 - 17:00 | <b>Lightning talks (session 2)</b>   {::nomarkdown}<ul><li>Personalizing LLM-Based Conversational Programming Assistants by Jonan Richards</li><li>Evidence-Driven Black-Box Checking by Frits Vaandrager</li><li>Language Models in Software Development Tasks: An Experimental Analysis of Energy and Accuracy by Negar Alizadeh, Boris Belchev, Nishant Saurabh, Patricia Kelbert and Fernando Castor</li><li>AUTOLINKing the GUI to MBT: automated model generation with scriptless testing by Machiel Van der Bijl and Fernando Pastor Ricos</li></ul>{:/}         |
 | 17:00 - 17:15 | Awards + Closing                                                                     |
 | 17:15 - 18:30 | Drinks & Snacks                                                                      |
