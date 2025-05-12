@@ -17,7 +17,7 @@ Below is the tentative program for SEN Symposium 2025.
 |  Session chair: Mairieli Wessel |  
 | 11:15 - 11:45 | <b>Invited talk :</b> [Tobias Kappé](https://tobias.kap.pe/) - On propositional program equivalence   |
 | 11:45 - 12:25 | <b>Lightning talks (session 1):</b> {::nomarkdown}<ul><li>Generating Tutorials for Personalized Learning Trajectories by Riemer van Rozen</li><li>A Qualitative Investigation into LLM-Generated Multilingual Code Comments and Automatic Evaluation Metrics by Yongcheng Huang, Jonathan Katzy, Arie van Deursen and Maliheh Izadi</li><li>AI-Powered, But Power-Hungry? Energy Efficiency of LLM-Generated Code by Lola Solovyeva</li></ul>{:/}  |
-| 11:25 - 12:35 | <b>VERSEN Fellows Awards:</b> {::nomarkdown}<ul><li>TBA</li></ul>{:/}  |
+| 11:25 - 12:35 | <b>VERSEN Fellows Awards</b> {::nomarkdown}{:/}  |
 | 12:35 - 13:30 | Lunch + Poster Session                                                              |
 |  Session chair: Alfons Laarman |  
 | 13:30 - 14:15 | <b>Keynote:</b> [Ana Sokolova](https://www.cs.uni-salzburg.at/~anas/) - Semantics for Probabilistic Systems: From Bisimilarity to Epsilon-Bisimilarity, Coalgebraically |
