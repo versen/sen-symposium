@@ -26,7 +26,7 @@ Below is the tentative program for SEN Symposium 2025.
 | 15:00 - 15:30 | Coffee Break                                                                        |
 |  Session chair: Mairieli Wessel<br/>Host-assistant: Jonan Richards| 
 | 15:30 - 16:10 | <b>Invited talk:</b> [Lina Ochoa](https://lmove.github.io/) - Migration without Assimilation: A Software Evolution Perspective  |
-|  Session chair: Maliheh Izadi<br/>host-assistant: Ziyou Li| 
+|  Session chair: Maliheh Izadi<br/>Host-assistant: Ziyou Li| 
 | 16:10 - 17:00 | <b>Lightning talks (session 2)</b>   {::nomarkdown}<ul><li>Personalizing LLM-Based Conversational Programming Assistants by Jonan Richards</li><li>Evidence-Driven Black-Box Checking by Frits Vaandrager</li><li>AUTOLINKing the GUI to MBT: automated model generation with scriptless testing by Machiel Van der Bijl and Fernando Pastor Ricos</li><li>Language Models in Software Development Tasks: An Experimental Analysis of Energy and Accuracy by Negar Alizadeh, Boris Belchev, Nishant Saurabh, Patricia Kelbert and Fernando Castor</li></ul>{:/}         |
 | 17:00 - 17:25 | Awards, VERSEN Update, Closing                                             |
 | 17:25 - 18:30 | Drinks & Snacks                                                            |
