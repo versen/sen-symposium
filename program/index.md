@@ -15,9 +15,9 @@ Below is the tentative program for SEN Symposium 2025.
 | 10:15 - 10:45 | <b>Invited talk:</b> [Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/) - Model-guided Testing of Distributed Systems  |
 | 10:45 - 11:15 | Coffee Break                                                                        |
 | 11:15 - 11:45 | <b>Invited talk :</b> [Tobias Kappé](https://tobias.kap.pe/) - On propositional program equivalence   |
-| 11:45 - 12:20 | <b>Lightning talks (session 1):</b> {::nomarkdown}<ul><li>Generating Tutorials for Personalized Learning Trajectories by Riemer van Rozen</li><li>A Qualitative Investigation into LLM-Generated Multilingual Code Comments and Automatic Evaluation Metrics by Yongcheng Huang, Gopal Panchu, Jonathan Katzy, Arie van Deursen and Maliheh Izadi</li><li>AI-Powered, But Power-Hungry? Energy Efficiency of LLM-Generated Code by Lola Solovyeva</li></ul>{:/}  |
-| 12:20 - 12:30 | <b>VERSEN LLL</b> {::nomarkdown}{:/}  |
-| 12:35 - 13:30 | Lunch + Poster Session                                                              |
+| 11:45 - 12:10 | <b>Lightning talks (session 1):</b> {::nomarkdown}<ul><li>A Qualitative Investigation into LLM-Generated Multilingual Code Comments and Automatic Evaluation Metrics by Yongcheng Huang, Gopal Panchu, Jonathan Katzy, Arie van Deursen and Maliheh Izadi</li><li>AI-Powered, But Power-Hungry? Energy Efficiency of LLM-Generated Code by Lola Solovyeva</li></ul>{:/}  |
+| 12:10 - 12:20 | <b>VERSEN LLL</b> {::nomarkdown}{:/}  |
+| 12:20 - 13:30 | Lunch + Poster Session                                                              |
 |  Session chair: Alfons Laarman |  
 | 13:30 - 14:15 | <b>Keynote:</b> [Ana Sokolova](https://www.cs.uni-salzburg.at/~anas/) - Semantics for Probabilistic Systems: From Bisimilarity to Epsilon-Bisimilarity, Coalgebraically |
 | 14:15 - 15:00 | <b>Invited talk:</b> [Lina Ochoa](https://lmove.github.io/) - Migration without Assimilation: A Software Evolution Perspective   |
