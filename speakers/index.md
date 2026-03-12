@@ -4,6 +4,10 @@ title: Speakers
 published: true
 ---
 
+More information will follow soon.
+
+<!--
+
 ## Speakers
 
 ### Keynotes
@@ -77,3 +81,5 @@ Quantum computing still has a stereotype that it is a field only truly accessibl
 </div>
 
 <br />
+
+-->

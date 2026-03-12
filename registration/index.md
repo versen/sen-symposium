@@ -12,4 +12,4 @@ Please register using the form below:
 
 <!--- Registration is currently not open yet. --->
 
-<iframe src="https://forms.gle/M8N9iYiUtTpSwwwHA" width="640" height="1252" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://forms.gle/rBWQGGqw6VNFMy1ZA" width="640" height="1252" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

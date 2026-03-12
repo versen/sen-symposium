@@ -19,12 +19,12 @@ There is no specific format for lightning talks. Still, they should be targeting
 
 There will be a (lightweight) evaluation of one-page talk proposals (PDF) describing the envisioned presentation at the symposium.
 
-**The call for lightning talks has been closed.**
+**The call for lightning talks is open in [Easychair](https://easychair.org/conferences/?conf=sensymposium2026).**
 
 ### Important Dates
 
-Submission of talk proposals: April 30th, 2025, 23:59 (CEST). 
+Submission of talk proposals: April 10th, 2026, AoE.
 
-Notification: May 7th, 2025.
+Notification: April 17th, 2026.
 
 We look forward to seeing you at the SEN symposium!

@@ -12,6 +12,7 @@ for Software Engineering</a>.
 The program will feature keynotes, invited presentations, and contributed “lightning talks”.
 
 <br><br>
+Registration is open! Lighnting talks can be submitted using Easychair (click <a href="https://easychair.org/conferences/?conf=sensymposium2026">here</a>). 
 More information on the program will be made available soon.
 <!--- <p class="lead">
  For further details on the speeches kindly refer to <a href="speakers/index.html">Speakers</a> page. 
@@ -26,9 +27,11 @@ Organising committee:
     </ul>
 </p>
 
-<p>
+<p class="lead">
 Local organisation:
-<a href="https://homepages.cwi.nl/~storm/">Tijs van der Storm</a>, Centrum Wiskunde & Informatica, University of Groningen
+    <ul>
+        <li><a href="https://homepages.cwi.nl/~storm/">Tijs van der Storm</a>, Centrum Wiskunde & Informatica, University of Groningen</li>
+    </ul>
 </p>
 
 <p class="lead">
