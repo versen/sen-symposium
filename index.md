@@ -12,7 +12,7 @@ for Software Engineering</a>.
 The program will feature keynotes, invited presentations, and contributed “lightning talks”.
 
 <br><br>
-Registration is open! Lighnting talks can be submitted using Easychair (click <a href="https://easychair.org/conferences/?conf=sensymposium2026">here</a>). 
+Registration is open! Lightning talks can be submitted using Easychair (click <a href="https://easychair.org/conferences/?conf=sensymposium2026">here</a>). 
 More information on the program will be made available soon.
 <!--- <p class="lead">
  For further details on the speeches kindly refer to <a href="speakers/index.html">Speakers</a> page. 
