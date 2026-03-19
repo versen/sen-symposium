@@ -13,7 +13,14 @@ The program will feature keynotes, invited presentations, and contributed “lig
 
 <br><br>
 Registration is open! Lightning talks can be submitted using Easychair (click <a href="https://easychair.org/conferences/?conf=sensymposium2026">here</a>). 
-More information on the program will be made available soon.
+More information on the program will be made available soon. We already have the following speakers:
+    <ul>
+        <li>prof. Jan Friso Groote (Eindhoven University of Technology) will talk about <b>formal methods</b> in light of the 10 year anniversary of VERSEN! </li>
+        <li>Bernard van Gastel (Radboud University) will talk about <b style="color:green;">green</b> software engineering.</li>
+        <li>Ayushi Rastogi (University of Groningen) will talk about <b>human factors</b> in software engineering.</li>
+        <li>Daniel dos Santos (Forescout Technologies Inc.) will talk about <b>software security</b> and the Internet of Things.</li>
+    </ul>
+
 <!--- <p class="lead">
  For further details on the speeches kindly refer to <a href="speakers/index.html">Speakers</a> page. 
  </p> --->
