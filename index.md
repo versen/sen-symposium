@@ -42,11 +42,11 @@ Local organisation:
 </p>
 
 <p class="lead">
-We thank ASML and Cloud-webshop for the generous sponsorship this year.
+We thank ASML for the generous sponsorship this year.
 <!--img width="200" src="assets/img/ASML.png"-->  
 </p>
   <div style="display: flex; gap: 10px;">
     <img src="assets/img/ASML.png" alt="ASML" style="width: 200px; height: auto;">
-    <img src="assets/img/cloudwebshop_logo.png" alt="CloudWebshop" style="width: 350px; height: auto;">
+    <!-- <img src="assets/img/cloudwebshop_logo.png" alt="CloudWebshop" style="width: 350px; height: auto;"> -->
   </div>
 <!-- <a href="/program/">check our program</a> and <a href="/registration/">register for free participation.</a> -->
