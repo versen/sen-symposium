@@ -20,5 +20,5 @@ published: true
 | 14:45 - 15:15 | Coffee break | | |
 | 15:15 - 16:00 | Invited Talk 3 | Bernard van Gastel (RU) | |
 | 16:00 - 16:30 | Lightning talks | | |
-| 16:30 - 17:00 | VERSEN announcements & awards | | |
+| 16:30 - 17:00 | VERSEN {::nomarkdown}<ul><li> Announcements </li><li> Awards </li></ul>{:/}| | |
 | 17:00 - 18:30 | Drinks & Snacks | | |
