@@ -9,11 +9,11 @@ The 12th Dutch national symposium on software engineering (SEN) will be held at 
 <br><br>
 At this symposium we bring together the Dutch software engineering, programming languages, and formal methods community. SEN symposium is organized by VERSEN, the <a href="https://www.versen.nl/">Dutch National Association
 for Software Engineering</a>. 
-The program will feature keynotes, invited presentations, and contributed “lightning talks”.
+The <a href="https://www.sen-symposium.nl/program/">program</a> will feature keynotes, invited presentations, and contributed “lightning talks”.
 
 <br><br>
 Registration is open! Lightning talks can be submitted using Easychair (click <a href="https://easychair.org/conferences/?conf=sensymposium2026">here</a>). 
-More information on the program will be made available soon. We already have the following speakers:
+We have the following speakers:
     <ul>
         <li>prof. Jan Friso Groote (Eindhoven University of Technology) will talk about <b>formal methods</b> in light of the 10 year anniversary of VERSEN! </li>
         <li>Bernard van Gastel (Radboud University) will talk about <b style="color:green;">green</b> software engineering.</li>

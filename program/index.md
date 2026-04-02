@@ -5,8 +5,9 @@ published: true
 
 ## Program SEN Symposium 2026
 
+{: .table .table-striped}
 | Time | Topic | Speaker | Title |
-| -------- | ------- | ------- | ------- |
+| :-------- | :------- | :------- | :------- |
 | 09:00 - 09:20 | Walk-in | | |
 | 09:20 - 09:30 | Welcome | | |
 | 09:30 - 10:15 | Keynote | Jan Friso Groote (TU/e) | |
