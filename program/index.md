@@ -21,4 +21,4 @@ published: true
 | <b>15:15 - 16:00</b> | <b>Invited Talk 3</b> | <b>Bernard van Gastel (RU)</b> | |
 | 16:00 - 16:30 | <b>Lightning talks (SE and LLMs / Learning):</b>{::nomarkdown}<ul><li>Babbling Suppression: Making LLMs Greener One Token at a Time by Lola Solovyeva</li><li>Improving x86 Disassemblers, Emulators, and Binary Translators with Automatic CPU Analysis by Jos Craaijo</li><li>Software Ecosystems are Dead. Long live Software Ecosystems! by Slinger Jansen and Casper Van Schothorst</li></ul>{:/}| | |
 | 16:30 - 17:00 | VERSEN: {::nomarkdown}<ul><li> Announcements </li><li> Awards </li></ul>{:/}| | |
-| 17:00 - 18:30 | Drinks & Snacks | | |
+| 17:00 - 18:30+ | Drinks & Snacks | | |
