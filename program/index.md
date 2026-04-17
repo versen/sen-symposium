@@ -18,7 +18,7 @@ published: true
 | <b>13:30 - 14:15</b> | <b>Invited Talk:</b><br>Human or Zero Human in Software Code | <b>Ayushi Rastogi (RUG)</b> | 
 | 14:15 - 14:45 | <b>Lightning talks (Human Factors in SE):</b>{::nomarkdown}<ul><li>Don’t Patch the Symptom: Root Cause Analysis in Academia–Industry Software Projects by Andrea Capiluppi</li><li>Connecting Perceptions of Ethical Issues in Software by Tom Humbert</li><li>Assessment of Software testing training using augmented VBA by Bart Knaack</li></ul>{:/} | | 
 | 14:45 - 15:15 | Coffee break | | 
-| <b>15:15 - 16:00</b> | <b>Invited Talk 3</b> | <b>Bernard van Gastel (RU)</b> | 
+| <b>15:15 - 16:00</b> | <b>Invited Talk:</b><br>Green software engineering: the past, the present, and the future | <b>Bernard van Gastel (RU)</b> | 
 | 16:00 - 16:30 | <b>Lightning talks (SE and LLMs / Learning):</b>{::nomarkdown}<ul><li>Babbling Suppression: Making LLMs Greener One Token at a Time by Lola Solovyeva</li><li>Improving x86 Disassemblers, Emulators, and Binary Translators with Automatic CPU Analysis by Jos Craaijo</li><li>Software Ecosystems are Dead. Long live Software Ecosystems! by Slinger Jansen and Casper Van Schothorst</li></ul>{:/}| | 
 | 16:30 - 17:00 | VERSEN: {::nomarkdown}<ul><li> Announcements </li><li> Awards </li></ul>{:/}| | 
 | 17:00 - 18:30+ | Drinks & Snacks | | 
