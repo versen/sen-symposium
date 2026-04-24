@@ -11,7 +11,7 @@ published: true
 | 09:00 - 09:20 | Walk-in | | 
 | 09:20 - 09:30 | Welcome | | 
 | <b>09:30 - 10:15</b> | <b>Keynote</b><br>mCRL2: From an aspiration to an effective software design tool | <b>Jan Friso Groote (TU/e)</b> | 
-| <b>10:15 - 11:00</b> | <b>Invited Talk 1</b> | <b>Daniel dos Santos (Forescout)</b> | 
+| <b>10:15 - 11:00</b> | <b>Invited Talk: Vulnerabilities In IoT/OT: A Decade of Finding Flaws and What AI Will Break Next</b> | <b>Daniel dos Santos (Forescout)</b> | 
 | 11:00 - 11:30 | Coffee break | | 
 | 11:30 - 12:00 | <b>Lightning talks (Analysis & Security):</b> {::nomarkdown} <ul> <li>Eradicating the Unseen: Detecting, Exploiting, and Remediating a Path Traversal Vulnerability across GitHub by Jafar Akhoundali, Kristian Rietveld and Olga Gadyatskaya</li><li>Knowledge Graph Consistency Verification and Repair Against Poisoning Attacks in RAG by Zunchen Huang and Songgaojun Deng</li><li>Getting Disassembly Right: What Binaries Don’t Tell You (But the Compiler Could) by Daniel Engel</li></ul>{:/} | | 
 | 12:00 - 13:30 | Lunch with a <span style="color:blue"><b>mentoring session for early career researchers</b></span>  | <b>Sangeeth Kochanthara (ASTRON) and Daniel Fietosa (RUG)</b>|
